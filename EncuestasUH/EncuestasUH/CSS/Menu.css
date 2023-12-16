@@ -1,0 +1,33 @@
+﻿body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #41ead0;
+    font-family: 'Century Gothic', sans-serif; 
+}
+
+div {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #4CAF50;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+li {
+    display: inline;
+    margin: 0 10px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 30px; 
+}
